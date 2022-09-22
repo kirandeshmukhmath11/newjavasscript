@@ -15,3 +15,5 @@ let per = new person()
 console.log(per.gender)
 console.log(per)
 console.log(per.addn)
+
+//new test cases
