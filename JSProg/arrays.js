@@ -1,7 +1,7 @@
 //Arrays
 // it is a colleciton elemenst
 
-var marks = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+var marks = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
 //           0  1  2  3  4  5  6  7 indices/position
 
 console.log(marks[5])
